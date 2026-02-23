@@ -1,6 +1,6 @@
-# 🎓 Student Management System
+#  Student Management System
 
-## 📌 Overview
+##  Overview
 
 The **Student Management System** is a role-based desktop application built using **C# (Windows Forms)** and **SQL Server**. The system is designed to manage student records in a structured academic environment with controlled access for different user roles.
 
@@ -8,19 +8,19 @@ This project demonstrates practical implementation of database-driven desktop de
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 Role-based access control (Administrator, Lecturer, Student)
-- 👤 Secure login interface
-- ➕ Add, ✏️ update, and ❌ delete student records
-- 📊 View student information using a structured data grid
-- ✅ Input validation and confirmation prompts
-- 🗄️ SQL Server database integration
-- 🎯 Event-driven Windows Forms architecture
+-  Role-based access control (Administrator, Lecturer, Student)
+-  Secure login interface
+-  Add,  update, and  delete student records
+-  View student information using a structured data grid
+-  Input validation and confirmation prompts
+-  SQL Server database integration
+-  Event-driven Windows Forms architecture
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The application follows a layered architecture approach:
 
@@ -37,7 +37,7 @@ The system uses role-based logic to control feature access and maintain data int
 
 ---
 
-## 💾 Database Design
+##  Database Design
 
 The database is structured to store student-related information such as:
 
@@ -49,7 +49,7 @@ Primary keys and parameterized SQL queries are used to ensure data consistency a
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - C#
 - .NET Windows Forms
@@ -59,7 +59,7 @@ Primary keys and parameterized SQL queries are used to ensure data consistency a
 
 ---
 
-## 🚀 How to Run the Application
+##  How to Run the Application
 
 1. Clone the repository:
    ```bash
