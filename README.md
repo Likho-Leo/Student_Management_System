@@ -1,4 +1,4 @@
-#Student Management System
+#Student Management System#
 #Overview
 
 The Student Management System is a role-based desktop application developed using C# (Windows Forms) and SQL Server. The system is designed to manage student records in a structured academic environment, providing controlled access for different user roles.
