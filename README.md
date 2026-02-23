@@ -1,11 +1,12 @@
-#Student Management System#
-#Overview
+**Student Management System**
+
+**Overview**
 
 The Student Management System is a role-based desktop application developed using C# (Windows Forms) and SQL Server. The system is designed to manage student records in a structured academic environment, providing controlled access for different user roles.
 
 This project demonstrates practical implementation of database-driven desktop development, including CRUD operations, role-based access control, and structured data management.
 
-#Features
+**Features**
 
 Role-based access control (Administrator, Lecturer, Student)
 
@@ -21,7 +22,7 @@ SQL Server database integration
 
 Event-driven Windows Forms architecture
 
-#Technologies Used
+**Technologies Used**
 
 C#
 
@@ -33,7 +34,7 @@ ADO.NET
 
 Visual Studio
 
-#System Architecture
+**System Architecture**
 
 The application follows a structured approach:
 
@@ -45,7 +46,7 @@ Database Layer: SQL Server with relational tables
 
 The system uses role-based logic to control access to specific features and ensure structured data operations.
 
-#Database Design
+**Database Design**
 
 The application uses a relational database structure to store student information, including:
 
@@ -57,7 +58,7 @@ Contact information
 
 Primary keys and structured queries are used to maintain data integrity and consistency.
 
-#How to Run the Application
+**How to Run the Application**
 
 Clone the repository.
 
@@ -69,7 +70,7 @@ Ensure the required database and tables are created.
 
 Build and run the application.
 
-#Learning Outcomes
+**Learning Outcomes**
 
 This project demonstrates:
 
@@ -83,7 +84,7 @@ Input validation and structured error handling
 
 Desktop application development using Windows Forms
 
-#Author
+**Author**
 
 Likho Leohla
 Diploma and Advanced Diploma in Information Technology (Cum Laude)
