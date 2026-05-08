@@ -63,4 +63,4 @@ Primary keys and parameterized SQL queries are used to ensure data consistency a
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Likho-Leo/Student_Management_System
